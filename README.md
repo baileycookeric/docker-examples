@@ -1,5 +1,5 @@
-# How to Build Multi-Architecture Docker Images with BuildX | Deploy containers to x86 and ARM!
+# Building Multi-Architecture Docker Images with BuildX
 
-Video: https://youtu.be/hWSHtHasJUI
+The files come from the following video: https://youtu.be/hWSHtHasJUI
 
-Building and running a simple Node.js application with a variety of architectures using docker buildx
+The video showcases building and running a simple Node.js application with a variety of architectures using docker buildx
